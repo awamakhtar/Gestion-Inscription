@@ -102,7 +102,7 @@ git init
 git add .
 git commit -m "commentaire"
 git remote add origin https://github.com/awamakhtar/Gestion-Inscription.git
-git push origin 
+git push origin master
 2. Installation du Backend (Laravel)
 # Aller dans le dossier backend
 cd backend
