@@ -12,7 +12,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <GraduationCap className="w-8 h-8 text-primary-400" />
-              <span className="text-xl font-bold">École Excellence</span>
+              <span className="text-xl font-bold">Mirador</span>
             </div>
             <p className="text-gray-400 text-sm">
               Une éducation de qualité pour préparer les leaders de demain.
